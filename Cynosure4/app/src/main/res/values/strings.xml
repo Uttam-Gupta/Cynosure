@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CYNOSURE</string>
+    <string name="title_section1"><u><b>HOME</b></u></string>
+    <string name="title_section2"><Font size="15"><b>PAPER PRESENTATION</b></Font></string>
+    <string name="title_section3"><Font size="15"><b>REVERSE CODING</b></Font></string>
+    <string name="title_section4"><Font size="15"><b>CODE DEBUGGING</b></Font></string>
+    <string name="title_section5"><Font size="15"><b>TECHNICAL QUIZ</b></Font></string>
+    <string name="title_section6"><Font size="15"><b>GOOGLE IT</b></Font></string>
+    <string name="title_section7"><Font size="15">CRYPT ANALYST</Font></string>
+    <string name="title_section8"><Font size="15"><b>FORE RUNNER</b></Font></string>
+    <string name="title_section9"><Font size="15"><b>DATA MINING AND ANALYSIS USING ENCOG</b></Font></string>
+    <string name="title_section10"><Font size="15"><b>APPLICATION DEVELOPMENT USING CORDOVA</b></Font></string>
+    <string name="title_section11"><Font size="15"><b>CONTACT US</b></Font></string>
+    <string name="title_section12"><Font size="15"><b>ABOUT US</b></Font></string>
+    <string name="title_section13"><Font size="15"><b>DEVELOPERS</b></Font></string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="calling_button">Call</string>
+    <string name="name1_btn">Soundara Rajan</string>
+    <string name="call_btn">Call</string>
+    <string name="name3_btn">Arjun Raja</string>
+    <string name="textv">Hi my name</string>
+    <string name="event1_1">\"Make thyself a craftsman in speech,for thereby thou shalt gain the upper hand \"</string>
+    <string name="eve1_2">PAPER PRESENTATION</string>
+    <string name="eve1_3">Come and enchant people with your presentation skills using topics which are taking on the Computer world on a Rage!</string>
+    <string name="eve1_4">RULES AND REGULATIONS</string>
+    <string name="eve1_5">1.The Slides should not exceed the limit of 20</string>
+    <string name="eve1_6">2.The Presentation should exceed 5 minutes,Following which there will be a questionnaire by the judges</string>
+    <string name="eve1_7">3.This is a team event consisting of two members per team</string>
+    <string name="eve1_8">Venue:LH 10</string>
+    <string name="eve1_9">Event Time:10AM</string>
+    <string name="e2_1">\"Don\'t look back,You are not going that way! \"</string>
+    <string name="e2_2">REVERSE CODING</string>
+    <string name="e2_3">Put your self in reverse mode and track the code back to its goal!</string>
+    <string name="e2_4">RULES AND REGULATIONS</string>
+    <string name="e2_5">1.This is a solo event consisting of 2 rounds</string>
+    <string name="e2_6">2.No direct display statements are allowed</string>
+    <string name="e2_7">3.The coding should involve precise logic and should produce the output as given.</string>
+    <string name="e2_8">Venue:CSE LAB</string>
+    <string name="e2_9">Event Time:10-11 AM</string>
+    <string name="e3_1">\"The greater the obstacle ,The more glory in overcoming it ! \"</string>
+    <string name="e3_2">CODE DEBUGGING</string>
+    <string name="e3_3">Clean out the bugs that prevent your code from bringing out what you desire!!</string>
+    <string name="e3_4">RULES AND REGULATIONS</string>
+    <string name="e3_5">1.This is a solo event consisting of 2 rounds.</string>
+    <string name="e3_6">2.The final round has time constraints and the choice of the judges is final.</string>
+    <string name="e3_7">Venue:CSE LAB</string>
+    <string name="e3_8">Event Time:10AM</string>
+    <string name="e4_1">\"Sometimes Questions are more important than the Answers \"</string>
+    <string name="e4_2">TECHNICAL QUIZ</string>
+    <string name="e4_3">Our challenging questions will test out your technical skills and push you towards making use of all the senses!!</string>
+    <string name="e4_4">RULES AND REGULATIONS</string>
+    <string name="e4_5">1.This is a solo event having 3 rounds that will test all your tech skills and bring out the best in you.</string>
+    <string name="e4_6">2.You can participate in either tech quiz or in crypt analysis</string>
+    <string name="e4_7">Venue:LH 09</string>
+    <string name="e4_8">Event Time:10.30AM</string>
+    <string name="e5_8">Event Time:10AM</string>
+    <string name="e6_1">\"Efdfqujpo jt Fwfszxifsf \"</string>
+    <string name="e6_2">CRYPT ANALYSIS</string>
+    <string name="e6_3">Wrack your brains to decrypt the answers and to make sense of what is given!!</string>
+    <string name="e6_4">RULES AND REGULATIONS</string>
+    <string name="e6_5">1.This is a solo event.</string>
+    <string name="e6_6">2.The Final round has Time Constraints and the choice of the judges is Final</string>
+    <string name="e6_7">Venue:LH 11</string>
+    <string name="e6_8">Event Time:10.30AM</string>
+    <string name="e7_1">Extremes are Easy,You have to strive for Balance\"</string>
+    <string name="e7_2">FORE RUNNER</string>
+    <string name="e7_3">Bring a balance between your tech and management skills !</string>
+    <string name="e7_4">RULES AND REGULATIONS</string>
+    <string name="e7_5">1.This is a solo event.</string>
+    <string name="e7_6">2.The Final round has Time Constraints and the choice of the judges is Final</string>
+    <string name="e7_7">Venue:SEMINAR HALL 1</string>
+    <string name="e7_8">Event Time:12.30 PM</string>
+    <string name="e8_2">DATAMINING AND ANALYSIS USING ENCOG</string>
+    <string name="e8_3">The fundamental algorithms in data mining and analysis form the basis for the emerging field of data science, which includes automated methods to analyze patterns and models for all kinds of data, with applications ranging from scientific discovery to business intelligence and analytics.</string>
+    <string name="e8_4">Using Encog:</string>
+    <string name="e8_5">Open Source</string>
+    <string name="e8_6">User Friendly</string>
+    <string name="e8_7">Used in Neural Networking</string>
+    <string name="e8_8">Using Weka:</string>
+    <string name="e8_9">Open Source</string>
+    <string name="e8_10">Clustering Software</string>
+    <string name="e8_11">Used in Data Analysis and Predictive Modeling</string>
+    <string name="e8_12">The Registration fee is rs.100 and Laptops are Mandatory</string>
+    <string name="e9_2">APP DEVELOPMENT USING CORDOVA</string>
+    <string name="e9_3">Develop expertise in app development and design to create fast and fluid Android apps. Learn app development on a variety of levels, whether you\'re an absolute beginner or simply need a refresh on the material.</string>
+    <string name="e9_4">TOOLS USED:</string>
+    <string name="e9_5">In software development,Cordova is a mobile development framework produced by Nitobi. Adobe Systems purchased Nitobi. It enables software programmers to build applications for mobile devices using JavaScript, HTML5, and CSS3, instead of relying on platform-specific APIs like those in iOS, Windows Phone, or Android</string>
+    <string name="e9_6">The Registration fee is rs.100 and Laptops are Mandatory</string>
+    <string name="e5_1">\"The Internet has always been and always will be a magic box \"</string>
+    <string name="e5_2">GOOGLE IT</string>
+    <string name="e5_3">This Event tests Your Internet Surfing Speed,Lets Check who is Faster!</string>
+    <string name="e5_4">RULES AND REGULATIONS</string>
+    <string name="e5_5">1.This is a solo event.</string>
+    <string name="e5_6">2.The Final round has Time Constraints and the choice of the judges is Final</string>
+    <string name="e5_7">Venue:NET LAB</string>
+    <string name="ab_1">Department of Computer Science and Engineering</string>
+    <string name="ab_2">Vision of the Department</string>
+    <string name="ab_3">To be a Centre of Excellence in Computer Science and Engineering, To promote the value of education and higher learning, To develop positive attitude among students, and To be productive based on the needs of our society.</string>
+    <string name="ab_4">Mission of the Department</string>
+    <string name="ab_5">The Mission of the Computer Science and Engineering Department is To prepare the students for a prospective career in the industry, academia, and public sector organizations, To provide an outstanding environment for teaching, learning and research, and To train the students in applying theory for practical applications.</string>
+
+</resources>

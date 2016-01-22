@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/splash" >
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:orientation="vertical"
+
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity"
+        android:clickable="true">
+
+    </RelativeLayout>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent" android:layout_height="match_parent">
+        <ViewFlipper
+            android:layout_width="match_parent"
+            android:layout_height="163dp"
+            android:id="@+id/viewFlipper"
+            android:layout_gravity="bottom"
+            android:autoStart="true"
+            android:animateFirstView="true">
+
+
+            <ImageView
+                    android:src="@drawable/loadone"
+                    android:layout_width="fill_parent"
+                    android:layout_height="100dp"
+                    android:id="@+id/imageView8"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true"
+                    ></ImageView>
+
+                <ImageView
+            android:src="@drawable/loadtwo"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:id="@+id/imageView9"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            ></ImageView>
+            <ImageView
+                android:src="@drawable/loadthree"
+                android:layout_width="fill_parent"
+                android:layout_height="100dp"
+                android:id="@+id/imageView7"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                ></ImageView>
+        </ViewFlipper>
+    </LinearLayout>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/footer"
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:layout_alignParentBottom="true"
+        android:background="#FC0"
+        android:gravity="center"
+        >
+        <TextView
+            android:background="@drawable/footer"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+
+
+            android:textSize="20sp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+
+</RelativeLayout>
